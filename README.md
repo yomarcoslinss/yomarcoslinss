@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="./assets/arrowr.gif" height="20" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> Olá!  Meu nome é <strong>Marcos </strong>| Front-End Developer </h1>
+<h1 align="center"> <img src="./assets/arrowr.gif" height="20" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> Olá! O meu nome é <strong>Marcos </strong>| Front-End Developer </h1>
 <div align="center">
    <img height="300em" src="./assets/programario.gif"/>
 </div>
