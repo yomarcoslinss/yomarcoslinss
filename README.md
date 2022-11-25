@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="./assets/arrowr.gif" height="20" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> Olá! Meu nome é <strong>Marcos </strong>| Front-End Developer </h1>
+<h1 align="center"> <img src="./assets/arrowr.gif" height="20" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> Olá! Meu nome é <strong>Marcos </strong>| Full-Stack Developer </h1>
 <div align="center">
    <img height="280em" src="./assets/programario.gif"/>
 </div>
@@ -15,13 +15,13 @@
 
 <div align="center">
 
-## Tech Stack
+## Tecnologias que eu domino
 ### Front-End:
 ![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=152136&logo=Angular&logoColor=DD0031)
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=152136&logo=JavaScript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=152136&logo=JavaScript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=152136&logo=TypeScript&logoColor=3178C6)
+![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=152136&logo=HTML5&logoColor=7B372C)
+![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=152136&logo=CSS3&logoColor=1572B6)
 
 ### Back-End:
 ![C#](https://img.shields.io/static/v1?label=&message=C%23&color=152136&logo=CSHARP)
