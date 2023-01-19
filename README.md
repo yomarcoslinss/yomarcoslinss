@@ -8,7 +8,7 @@
 <div>
    <h2>🧐 Sobre mim</h2>
    <p align="justify">
-      Olá, meu nome é Marcos, eu tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho. Eu sempre tive amor pela tecnologia e pelo seu poder de transformar ideias em realidade, isso me motivou a escolher esta carreira. Atualmente, trabalho como motoboy em uma distribuidora de água e bebidas e eu dedico cerca de 4 horas do meu dia, de segunda a segunda, para estudar desenvolvimento back-end. Estou muito empenhado em me tornar um profissional de alta qualidade e estou ansioso para ver o que o futuro reserva para mim nesta área 🚀
+      Olá, meu nome é Marcos, eu tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho. Eu sempre tive amor pela tecnologia e pelo seu poder de transformar ideias em realidade, isso me motivou a escolher esta carreira. Atualmente, trabalho como motoboy em uma distribuidora de água e bebidas e eu dedico cerca de 4 horas do meu dia, de segunda a segunda, para estudar desenvolvimento Full-Stack (atualmente focado em back-end). Estou muito empenhado em me tornar um profissional de alta qualidade e estou ansioso para ver o que o futuro reserva para mim nesta área 🚀
    </p>
 </div>
 
